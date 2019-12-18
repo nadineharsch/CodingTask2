@@ -6,5 +6,7 @@ Bearbeitungszeit: 7h
 Programmiersprache: Java
 
 Laufzeit:
+
 Robustheit:
+
 Speicherverbrauch:
